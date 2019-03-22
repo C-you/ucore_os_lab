@@ -1,4 +1,4 @@
-INTRODUCTION
+﻿INTRODUCTION
 ============
 ucore os labs was used as OS Experiments in OS Course Of Dept. of Computer Science & Technology, Tsinghua University.
 
@@ -137,3 +137,4 @@ The codes in the files that constitute ucore are Copyright (2010-Current) Yu Che
 
 The documents in the files that constitute ucore are Copyright (2010-Current) Yu Chen, Yong Xiang and uses Creative Commons Attribution/Share-Alike (CC-BY-SA) License. 
 
+陈嘉佑-2016080034-lab1-20190322-2356-61e1998d58ad2693bc1431a18875516198dd4c19
